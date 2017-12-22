@@ -6,6 +6,7 @@
         <label class="sr-only" for="city">城市</label>
         <input type="text" class="form-control" name="city" placeholder="城市" v-model="city" @blur='getStations'/>
       </div>
+      
       <div class="form-group">
         <label class="sr-only" for="station">监测站</label>
         <select class="form-control" v-model="selectedStation" @change='changeStation'>
