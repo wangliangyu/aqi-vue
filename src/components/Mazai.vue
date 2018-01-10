@@ -49,7 +49,8 @@
 
           <div class="col-md-8 col-sm-8">
             <h1 class="wow fadeInUp" data-wow-delay="0.6s">马仔和他的圈子。</h1>
-            <a href="#" class="wow fadeInUp btn btn-default section-btn" data-wow-delay="1s">Download Resume</a>
+            <!--后续这边需要用markdown显示我的简历,使用a链接跳转即可-->
+            <a href="#" class="wow fadeInUp btn btn-default section-btn" data-wow-delay="1s">我的简历</a>
           </div>
 
         </div>
@@ -64,12 +65,13 @@
           <div class="col-md-8 col-sm-12">
             <div class="about-thumb">
               <div class="wow fadeInUp section-title" data-wow-delay="0.6s">
-                <h2>A Little Bit Of My Story</h2>
-                <p><strong>Senior Interactive Designer & Web Developer at yourdreamjob.com</strong></p>
+                <h2>一些关于我的事</h2>
+                <p><strong>码农里的水手</strong></p>
               </div>
               <div class="wow fadeInUp" data-wow-delay="0.8s">
-                <p>
-                  Award winning interdisciplinary Designer & Art director. We have a team who specialise in coding websites and themes perfect blend of style and function for a wide range of interactive product design.</p>
+                <p>会有一些奇怪的想法，大部分纯属臆想，剩下的99%是臆想。</p>
+                <p>会吐槽，会抱怨，会不爽。</p>
+                <p>爱生活，爱家人，爱前端。</p>
               </div>
               <ul class="social-icon">
                 <li class="wow fadeInLeft" data-wow-delay="1s"><a href="#" class="fa fa-twitter"></a></li>
@@ -119,8 +121,10 @@
 
           <div class="col-md-4 col-sm-6">
             <div class="wow fadeInUp section-title" data-wow-delay="0.2s">
-              <h2>Expertise</h2>
-              <p>Award winning interdisciplinary Designer & Art director. We have a team who specialise in coding websites.</p>
+              <h2>术业</h2>
+              <p>拿过奖也挨过批</p>
+              <p>迎难而上做不到</p>
+              <p>半途而废干不来</p>
             </div>
           </div>
 
@@ -128,29 +132,29 @@
             <div class="skill-thumb">
 
               <div class="wow fadeInUp" data-wow-delay="1s">
-                <strong>Graphic Design</strong>
-                <span class="pull-right">95%</span>
+                <strong>环境遥感</strong>
+                <span class="pull-right">75%</span>
                 <div class="progress">
                   <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="95" aria-valuemin="0"
-                       aria-valuemax="100" style="width: 90%;"></div>
+                       aria-valuemax="100" style="width: 75%;"></div>
                 </div>
               </div>
 
               <div class="wow fadeInUp" data-wow-delay="1.2s">
-                <strong>Minimal Themes</strong>
-                <span class="pull-right">100%</span>
+                <strong>前端开发</strong>
+                <span class="pull-right">55%</span>
                 <div class="progress">
                   <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="80" aria-valuemin="0"
-                       aria-valuemax="100" style="width: 100%;"></div>
+                       aria-valuemax="100" style="width: 55%;"></div>
                 </div>
               </div>
 
               <div class="wow fadeInUp" data-wow-delay="1.4s">
-                <strong>Media & Photography</strong>
-                <span class="pull-right">75%</span>
+                <strong>大数据</strong>
+                <span class="pull-right">5%</span>
                 <div class="progress">
                   <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="65" aria-valuemin="0"
-                       aria-valuemax="100" style="width: 75%;"></div>
+                       aria-valuemax="100" style="width: 5%;"></div>
                 </div>
               </div>
 

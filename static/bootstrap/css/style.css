@@ -65,15 +65,15 @@ strong, span {
 -----------------------------------------*/
 
 .section-btn {
-  background: #d7b065;
+  background: #f6f6f6;
   border: none;
-  border-radius: 50px;
-  color: #ffffff;
-  font-size: 13px;
+  border-radius: 15px;
+  color: #171616;
+  font-size: 20px;
   font-weight: bold;
   letter-spacing: 1.6px;
-  padding: 14px 32px 18px 32px;
-  margin-top: 32px;
+  padding: 10px 15px 10px 15px;
+  margin-top: 30px;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
 }
