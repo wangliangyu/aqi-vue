@@ -1,21 +1,26 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Test from '@/components/Test'
+import AqiTime from '@/components/AqiTime'
 import Mazai from '@/components/Mazai'
 
 Vue.use(Router)
 
-export default new Router({
+const router = new Router({
+  mode: 'history',
   routes: [
     {
       path: '/',
-      name: 'Mazai',
       component: Mazai
     },
     {
-      path: '/test',
-      name: 'Test',
-      component: Test
+      path: '/aqitime',
+      component: AqiTime
     }
   ]
 })
+
+router.beforeEach((to, from, next)=>{
+  next()
+})
+
+export default router

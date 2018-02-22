@@ -29,7 +29,7 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       '/aqi': {
-        target: 'http://www.poqianduan.cn',
+        target: 'http://www.poqianduan.cn:3000',
         changeOrigin: true,
         pathRewrite: {
           '^/aqi': 'aqi/'
